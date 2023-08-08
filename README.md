@@ -12,13 +12,14 @@ The purpose of this bachelor thesis was to investigate the effects of infection 
 
 2) infection has stochastic effects on the microbiome, creating an unstable community configuration with greater dispersion (the “Anna Karenina principle”).
 
-I analyzed 16S amplicon microbiome data from 362 samples collected from 58 individuals with known TB infection history. I found that *M. suricattae* infection is associated with negative effects on the physical condition of meerkats. However, no alterations in alpha or beta diversity of gut microbiome composition linked to TB infection or symptoms were detected.
-Methods I applied in the lab:
+Lab methods that I applied to generate an Illumina MiSeq DNA Amplicon sequencing library:
 - DNA extraction
-- Polymerase chain reaction (PCR)
+- Polymerase chain reaction (PCR) amplification
 - Gel electrophoresis
-- Capillary electrophoresis
+- Cleaning, capillary electrophoresis, concentration measurements, normalization
 - Illumina paired-end sequencing
+
+I analyzed 16S amplicon microbiome data from 362 samples collected from 58 individuals with known TB infection history. I found that *M. suricattae* infection is associated with negative effects on the physical condition of meerkats. However, no alterations in alpha or beta diversity of gut microbiome composition linked to TB infection or symptoms were detected.
 
 ## Folder Structure 
 ```

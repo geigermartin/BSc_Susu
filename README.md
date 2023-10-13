@@ -24,8 +24,6 @@ I analyzed 16S amplicon microbiome data from 362 samples collected from 58 indiv
 ## Folder Structure 
 ```
 │projectdir
-|
-├── data              <- Data resulting from High Throughput Sequencing
 │
 ├── report            <- Thesis and presentation
 │   ├── presentation  <- PDF of the final presentation
